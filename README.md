@@ -10,9 +10,9 @@ In this project we are analyzing data to see how different the temperature data 
 
 As one can see from the temperature data, the months of June and December were analyzed below. 
 
-![June_Temp](address)
+![June_Temp](https://github.com/sangyoo1021/surfs_up/blob/main/June_Temp.png)
 
-![December_Temp](address)
+![December_Temp](https://github.com/sangyoo1021/surfs_up/blob/main/December_Temp.png)
 
 ## Summary
 
